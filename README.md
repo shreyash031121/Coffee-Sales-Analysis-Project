@@ -29,8 +29,8 @@ The dashboard provides a one-page executive view covering revenue, transactions,
 ---
 
 ## 📁 Project Files
-- `Coffee_Sales_Dashboard.xlsx` → Interactive Excel dashboard
-- `Coffee_Sales_Dashboard.pdf` → Mobile-friendly one-page PDF
+- `Coffee Sales Analysis Project.xlsx` → Interactive Excel dashboard
+- `Coffee Sales Analysis Project.pdf` → Mobile-friendly one-page PDF
 - `dashboard_preview.png` → Dashboard snapshot for quick view
 
 ---
